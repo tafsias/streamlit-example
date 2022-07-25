@@ -6,6 +6,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "import streamlit as st\n",
     "#Nathan removed functions related to terminal commands from given library\n",
     "from part_ncbiblast_library import *\n",
     "import json\n",
